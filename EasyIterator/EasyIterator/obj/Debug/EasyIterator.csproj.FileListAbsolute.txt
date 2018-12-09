@@ -1,0 +1,7 @@
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\bin\Debug\EasyIterator.exe.config
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\bin\Debug\EasyIterator.exe
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\bin\Debug\EasyIterator.pdb
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\obj\Debug\EasyIterator.csprojAssemblyReference.cache
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\obj\Debug\EasyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\obj\Debug\EasyIterator.exe
+C:\Users\Wsn\source\repos\EasyIterator\EasyIterator\obj\Debug\EasyIterator.pdb
